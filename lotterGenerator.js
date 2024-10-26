@@ -14,6 +14,8 @@ function playerInfo() {
 console.log(playerInfo());
 
 function playGame(lotteryGenrator, playerInfo) {
+    alert("you have only 5 chances!");
+    alert("lotteryNumber between 1 to 100");
     for (count = 5; count >= 0; count--) {
         if (count === lotteryNumber) {
             console.log("congratulations! u win ");
@@ -24,6 +26,7 @@ function playGame(lotteryGenrator, playerInfo) {
         }
     }
 }
+console.log(playGame);
 
 
 
