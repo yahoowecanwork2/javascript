@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(113, 121, 121);
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+p {
+    color: black;
+}
+
+button {
+    color: blue;
+    background-color: aliceblue;
+}
+
+body {
+    background-color: beige;
+}
